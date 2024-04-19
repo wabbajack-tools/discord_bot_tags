@@ -1,6 +1,6 @@
-## How to add a tag
+# How to add a tag
 
-To add a new tag simply make a pull request that adds the following to the [`tags.yaml`](https://github.com/wabbajack-tools/discord_bot_tags/blob/main/tags.yaml) file where 
+To add a new tag simply make a pull request that adds the following to the [`tags.yaml`](https://github.com/wabbajack-tools/discord_bot_tags/blob/main/tags.yaml) file where
 
 - `tag` is the name of the tag
 - `text` is the markdown formatted text used for the embed
@@ -13,4 +13,5 @@ tag:
   text: https://link.to.raw/tag.md
   image_url: https://link.to/image.png
 ```
+
 *Setting an `image_url` is optional.*
