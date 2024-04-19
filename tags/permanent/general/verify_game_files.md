@@ -10,4 +10,4 @@ Your base game files don’t seem to match what Wabbajack expects to find. Verif
 6. Select Verify Integrity of Local Files
 7. Launch Wabbajack
 
-Type `/tags tag: update` for more information on the final step. And no, you won’t lose your download progress for the Modlist.
+Type `/tags tag: update_modlist` for more information on the final step. And no, you won’t lose your download progress for the Modlist.
