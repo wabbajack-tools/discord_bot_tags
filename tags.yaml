@@ -2,3 +2,5 @@ add_a_tag:
   text: https://raw.githubusercontent.com/wabbajack-tools/discord_bot_tags/main/README.md
 verify_game_files:
   text: https://raw.githubusercontent.com/wabbajack-tools/discord_bot_tags/main/tags/permanent/general/verify_game_files.md
+update_modlist:
+  text: https://raw.githubusercontent.com/wabbajack-tools/discord_bot_tags/main/tags/permanent/general/update_modlist.md
