@@ -8,4 +8,4 @@ refresh_nexus_login:
   text: https://raw.githubusercontent.com/wabbajack-tools/discord_bot_tags/main/tags/permanent/general/refresh_nexus_login.md
   image_url: https://raw.githubusercontent.com/wabbajack-tools/discord_bot_tags/main/tags/permanent/general/refresh_nexus_login.png
 learn2mod:
-  text: https://raw.githubusercontent.com/wabbajack-tools/discord_bot_tags/main/tags/permanent/how_to_mod.md
+  text: https://raw.githubusercontent.com/wabbajack-tools/discord_bot_tags/main/tags/permanent/general/how_to_mod.md
