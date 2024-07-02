@@ -1,6 +1,6 @@
 # Do Not Run Wabbajack as Admin
 
-Wabbajack DOES NOT support non-standard Windows installations. This includes installations with UAC disabled or removed.
+Wabbajack **DOES NOT** support non-standard Windows installations. This includes installations with UAC disabled or removed.
 
 If you have UAC disabled - re-enable via the Control Panel and restart your PC (refer to the image below).
 
