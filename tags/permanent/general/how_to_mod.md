@@ -1,4 +1,4 @@
-# Can I add x mod?
+## Can I add x mod?
 
 Modifying a Wabbajack modlist in any way is unsupported (Rule 11).
 

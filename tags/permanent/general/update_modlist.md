@@ -1,4 +1,4 @@
-# Updating a Wabbajack Modlist
+## Updating a Wabbajack Modlist
 
 To update a Modlist, simply run Wabbajack again and get the newest list file from the Gallery. Select the same Download and Install folders you chose previously, and enable the "Overwrite" option on the bottom right.
 

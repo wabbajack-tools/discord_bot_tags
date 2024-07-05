@@ -1,4 +1,4 @@
-# Do Not Run Wabbajack as Admin
+## Do Not Run Wabbajack as Admin
 
 Wabbajack **DOES NOT** support non-standard Windows installations. This includes installations with UAC disabled or removed.
 

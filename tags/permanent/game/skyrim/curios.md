@@ -1,4 +1,4 @@
-# Unable to download 'Curios' files
+## Unable to download 'Curios' files
 
 If your log shows references to 'Curios' files failing to download,
 i.e. `Unable to download Data_ccbgssse037-curios`
@@ -14,4 +14,4 @@ Follow these steps:
 7. Exit the game.
 8. Rerun the Wabbajack installer.
 
-## DO NOT Alt+Tab; you must leave the game window active or the download will stop.
+### DO NOT Alt+Tab; you must leave the game window active or the download will stop.
