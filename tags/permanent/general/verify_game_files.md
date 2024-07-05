@@ -1,4 +1,4 @@
-# Verify Your Game Files
+## Verify Your Game Files
 
 Your base game files don’t seem to match what Wabbajack expects to find. Verify your files through Steam via following these steps:
 
