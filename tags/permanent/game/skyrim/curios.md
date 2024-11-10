@@ -15,3 +15,6 @@ Follow these steps:
 8. Rerun the Wabbajack installer.
 
 ### DO NOT Alt+Tab; you must leave the game window active or the download will stop.
+
+If Wabbajack still reports missing Curios
+Check your `Skyrim Special Edition\Data` folder to see if they exist, if they don't - download 'Rare curios' manually from the in-game Creation Club menu.
