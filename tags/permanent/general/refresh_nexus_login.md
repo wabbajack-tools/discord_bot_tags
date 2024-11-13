@@ -1,3 +1,5 @@
 ## Refresh Nexus Login
 
-Go to the Wabbajack settings page then log out of Nexus mods and login again.
+Please wait 10 minutes for any temporary suspension to expire.
+Open Wabbajack and open the Settings (⚙️) page.
+Log out of **Nexus Mods** and login again.
