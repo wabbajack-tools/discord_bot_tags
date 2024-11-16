@@ -1,3 +1,4 @@
+
 #How to add a tag:
 add_a_tag:
   text: https://raw.githubusercontent.com/wabbajack-tools/discord_bot_tags/main/README.md
@@ -97,5 +98,8 @@ winupdate:
 #Game Specific Commands
 aecc:
     text: https://raw.githubusercontent.com/wabbajack-tools/discord_bot_tags/main/tags/permanent/general/aecc.md
+ck:
+    text: https://raw.githubusercontent.com/wabbajack-tools/discord_bot_tags/main/tags/permanent/game/skyrim/ck.md
 curios:
     text: https://raw.githubusercontent.com/wabbajack-tools/discord_bot_tags/main/tags/permanent/game/skyrim/curios.md
+    
