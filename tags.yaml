@@ -102,4 +102,5 @@ ck:
     text: https://raw.githubusercontent.com/wabbajack-tools/discord_bot_tags/main/tags/permanent/game/skyrim/ck.md
 curios:
     text: https://raw.githubusercontent.com/wabbajack-tools/discord_bot_tags/main/tags/permanent/game/skyrim/curios.md
-    
+downgrade_ck:
+    text: https://raw.githubusercontent.com/wabbajack-tools/discord_bot_tags/main/tags/temporary/game/skyrim/downgrade_creationkit.md
