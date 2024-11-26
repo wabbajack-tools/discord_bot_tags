@@ -57,6 +57,9 @@ wjreset:
 wjtutorial:
     text: https://raw.githubusercontent.com/wabbajack-tools/discord_bot_tags/main/tags/permanent/general/wjtutorial.md
 #MO2 Commands
+dontunlock:
+    text: https://raw.githubusercontent.com/wabbajack-tools/discord_bot_tags/main/tags/permanent/general/dontunlock.md
+    image_url: https://raw.githubusercontent.com/wabbajack-tools/discord_bot_tags/main/tags/permanent/general/dontunlock.png
 #Windows & General Troubleshooting
 antivirus:
     text: https://raw.githubusercontent.com/wabbajack-tools/discord_bot_tags/main/tags/permanent/general/antivirus.md  
