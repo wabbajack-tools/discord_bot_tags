@@ -104,6 +104,8 @@ winupdate:
 #Game Specific Commands
 aecc:
     text: https://raw.githubusercontent.com/wabbajack-tools/discord_bot_tags/main/tags/permanent/game/skyrim/aecc.md
+camo:
+    text: https://raw.githubusercontent.com/wabbajack-tools/discord_bot_tags/main/tags/permanent/game/fallout4/camo.md
 ck:
     text: https://raw.githubusercontent.com/wabbajack-tools/discord_bot_tags/main/tags/permanent/game/skyrim/ck.md
 curios:
