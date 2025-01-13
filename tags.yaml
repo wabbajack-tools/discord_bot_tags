@@ -30,6 +30,9 @@ gamepass:
 gff:
   text: https://raw.githubusercontent.com/wabbajack-tools/discord_bot_tags/main/tags/permanent/general/gff.md
   image_url: https://raw.githubusercontent.com/wabbajack-tools/discord_bot_tags/main/tags/permanent/general/gff.png
+language:
+    text: https://raw.githubusercontent.com/wabbajack-tools/discord_bot_tags/main/tags/permanent/general/language.md
+    image_url: https://raw.githubusercontent.com/wabbajack-tools/discord_bot_tags/main/tags/permanent/general/language.png
 lists:
     text: https://raw.githubusercontent.com/wabbajack-tools/discord_bot_tags/main/tags/permanent/general/lists.md
 loadorder:
