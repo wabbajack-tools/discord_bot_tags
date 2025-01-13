@@ -1,10 +1,13 @@
 ## Intel Powerdraw Bug
 
-12900, 13900 and 14900 are all victims of Intel power draw bug
+Intel 13th and 14th gen i7 and i9 CPUs are all susceptible to a power draw bug
 
-Its not a wj issue, its your cpu slowly degrading the amount of power it can draw without causing crashing
-anything else that pushes any real stress on it will similarly cause crashing if your clock multiplier is too high.
+Wabbajack is not at fault.
 
-fix: Gotta limit your clock multiplier to 54x or lower
+Your CPU has degraded to the point it is unable to run at high load without undervolting or reducing core ratio. Wabbajack is a system intensive application, but anything else that pushes any real stress on it will similarly cause crashing if your clock multiplier is too high. 
 
-Source: <https://www.pcmag.com/explainers/intels-raptor-lake-desktop-cpu-bug-what-to-know-what-to-do-now>
+The issue will get worse until you warranty or replace the CPU.
+
+Temporary work around: under-volt the CPU
+
+See the following article for details and under-volt/core ratio instructions <https://www.pcmag.com/explainers/intels-raptor-lake-desktop-cpu-bug-what-to-know-what-to-do-now>
