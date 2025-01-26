@@ -112,6 +112,8 @@ webv:
     text: https://raw.githubusercontent.com/wabbajack-tools/discord_bot_tags/main/tags/permanent/general/Webv.md
 winupdate:
     text: https://raw.githubusercontent.com/wabbajack-tools/discord_bot_tags/main/tags/permanent/general/winupdate.md
+wjcrash:
+    text: https://raw.githubusercontent.com/wabbajack-tools/discord_bot_tags/main/tags/permanent/general/winupdate.md
 #Game Specific Commands
 aecc:
     text: https://raw.githubusercontent.com/wabbajack-tools/discord_bot_tags/main/tags/permanent/game/skyrim/aecc.md
