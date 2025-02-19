@@ -13,4 +13,4 @@ If you are getting consistant fails on the same files or the hash fail mentions 
    Get that. unzip it somewhere
    run wabbajack from inside that folder and choose the same folders as you currently do
 
-#### UNDER NO CIRSUMSTANCES SHOULD YOU DELETE ANY PART OF THE MODLIST 
+### UNDER NO CIRSUMSTANCES SHOULD YOU DELETE ANY PART OF THE MODLIST 
