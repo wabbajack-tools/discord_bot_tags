@@ -133,6 +133,8 @@ curios:
     text: https://raw.githubusercontent.com/wabbajack-tools/discord_bot_tags/main/tags/permanent/game/skyrim/curios.md
 downgrade_creationkit:
     text: https://raw.githubusercontent.com/wabbajack-tools/discord_bot_tags/main/tags/temporary/game/skyrim/downgrade_creationkit.md
+fix_fnv_installscript:
+    text: https://raw.githubusercontent.com/wabbajack-tools/discord_bot_tags/main/tags/permanent/game/falloutnewvegas/fix_fnv_installscript.md
 reyakendsanity:
   text: https://raw.githubusercontent.com/wabbajack-tools/discord_bot_tags/main/tags/permanent/game/skyrim/ReyakEndSanity.md
     
