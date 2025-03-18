@@ -6,10 +6,7 @@ Most users can generally brute force it through by running the install over and 
 
 If you are getting **consistent failures** on the same files, the hash fail mentions a **"SHA1"** fail, or you have retried **10+ times**, you can try the following releases to see if they work better for you:
 
-1. **Try the current beta from ⁠bleeding-edge-testing**  
-   Unzip it somewhere, run Wabbajack from inside that folder, and choose the same folders as you currently do.  
-
-2. **Downgrade Wabbajack to [3.6.1.1](https://github.com/wabbajack-tools/wabbajack/releases/download/3.6.1.1/3.6.1.1.zip)**  
+ **Downgrade Wabbajack to [3.6.1.1](https://github.com/wabbajack-tools/wabbajack/releases/download/3.6.1.1/3.6.1.1.zip)**  
    Get that zip file, unzip it somewhere (**a folder called 3.6.1.1 inside the directory where you're currently running Wabbajack from is a good idea**).  
    Run Wabbajack from inside that folder and choose the same folders as you currently do.  
 
