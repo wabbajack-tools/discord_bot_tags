@@ -62,7 +62,7 @@ nomatch:
   text: https://raw.githubusercontent.com/wabbajack-tools/discord_bot_tags/main/tags/permanent/general/NoMatch.MD
 progressbars:
   text: https://raw.githubusercontent.com/wabbajack-tools/discord_bot_tags/main/tags/permanent/general/ProgressBars.md
-  image_url: https://raw.githubusercontent.com/wabbajack-tools/discord_bot_tags/main/tags/permanent/general/settings.png
+  image_url: https://raw.githubusercontent.com/wabbajack-tools/discord_bot_tags/main/tags/permanent/general/Settings.png
 refresh_nexus_login:
   text: https://raw.githubusercontent.com/wabbajack-tools/discord_bot_tags/main/tags/permanent/general/refresh_nexus_login.md
   image_url: https://raw.githubusercontent.com/wabbajack-tools/discord_bot_tags/main/tags/permanent/general/relog.png
