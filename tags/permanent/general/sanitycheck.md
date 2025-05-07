@@ -6,7 +6,11 @@ Sanity check errors are normally caused by one of three things :-
 
 If your system locale (language) is set to any language not using Latin-script letters (like English does), set your system language to English or any other Latin-script language which you can understand, and the issue is likely fixed.
 
-<https://support.microsoft.com/en-us/windows/manage-the-input-and-display-language-settings-in-windows-12a10cb4-8626-9b77-0ccb-5013e0c7c7a2>
+1. Go to Control Panel - Time and Language settings - Language and region
+2. Click Administrative Language settings then change system locale
+3. Choose English and UNCHECK Beta: use Unicode UTF-8 for worldwide Language support
+4. Reboot your PC then restart Wabbajack installation
+5. After install complete, change the settings back.
 
 ### Insufficiant Drive space or a failing hard Drive
 
