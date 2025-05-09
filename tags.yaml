@@ -28,6 +28,8 @@ api:
     text: https://raw.githubusercontent.com/wabbajack-tools/discord_bot_tags/main/tags/permanent/general/API.md
 fal:
     text: https://raw.githubusercontent.com/wabbajack-tools/discord_bot_tags/main/tags/permanent/general/fal.md
+failed_install:
+    text: https://raw.githubusercontent.com/wabbajack-tools/discord_bot_tags/main/tags/permanent/general/fail.md
 folder:
     text: https://raw.githubusercontent.com/wabbajack-tools/discord_bot_tags/main/tags/permanent/general/folder.md
 gamepass:
