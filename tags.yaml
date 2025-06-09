@@ -90,6 +90,8 @@ texconv:
   text: https://raw.githubusercontent.com/wabbajack-tools/discord_bot_tags/main/tags/permanent/general/texconv.md
 update_modlist:
   text: https://raw.githubusercontent.com/wabbajack-tools/discord_bot_tags/main/tags/permanent/general/update_modlist.md
+Welcome:
+  text: https://raw.githubusercontent.com/wabbajack-tools/discord_bot_tags/main/tags/permanent/general/Welcome.md
 wjlog:
     text: https://raw.githubusercontent.com/wabbajack-tools/discord_bot_tags/main/tags/permanent/general/wjlog.md
     image_url: https://raw.githubusercontent.com/wabbajack-tools/discord_bot_tags/main/tags/permanent/general/wjlognew.png
