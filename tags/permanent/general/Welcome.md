@@ -15,7 +15,7 @@ Be sure to check out the pins for some useful information on Wabbabot release me
 
 The Wabbakinator is a tool for users to find a list they want to play and it covers all of the supported Wabbajack games.
 
-If you want to add your list or make any changes in the future, it is up to you to provide the information to differentiate your list from others. Please ping J.T.K, Crit, and Zélie in <#1272286658922020924> with what you want to change it to.
+If you want to add your list or make any changes in the future, it is up to you to provide the information to differentiate your list from others. Please ping  <@257108926741348353>, <@243442155698388993>, and <@476532467428229146>  in <#1272286658922020924> with what you want to change it to.
 
 We'll obviously help if we can but the onus is on you to provide the information to help direct users to your list. This also goes onto the "To-do" list for things if you create and gain featured on another list.
 
