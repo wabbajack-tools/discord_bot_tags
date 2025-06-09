@@ -1,6 +1,6 @@
 # Congratulations on getting featured!
 
-## Before you can fully celebrate let's make it official, there are a few steps that still need completing:
+## Before you can fully celebrate.. let's make it fully official, just a couple more things:
 1. To get your shiny modlist highlighted on the UI, please edit your repo's `modlist.json` to have `"official": true`, and also add the `Official` tag; If your modlist is stored on the official repo instead of a custom one that will be on the Wabbajack github. 
 2. If your modlist is stored on an existing repo you can skip this step, otherwise please submit a pull request to add your repository json to the [featured list json](https://github.com/wabbajack-tools/mod-lists/blob/master/featured_lists.json). If your modlist is featured in an existing repository, please structure it as so: `repository/machineURL`
 3. Finally, make a pull request for [this document](https://github.com/wabbajack-tools/mod-lists/blob/master/modlist-descriptions.md) that we use to suggest modlists to include your list with your modlist about info.
