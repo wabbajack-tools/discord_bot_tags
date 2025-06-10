@@ -9,6 +9,7 @@
 
 1. Be sure to check out the pins for some useful information on Wabbabot release messages, the CDN and general other stuff.
 2. You get access to this channel!
+3. https://discord.com/channels/605449136870916175/1272286658922020924/1381863463013585048
 
 # Adding your list to the Wabbakinator
 
