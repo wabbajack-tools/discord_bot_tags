@@ -6,9 +6,9 @@
 3. Finally, make a pull request for [this document](https://github.com/wabbajack-tools/mod-lists/blob/master/modlist-descriptions.md) that we use to suggest modlists to include your list with your modlist about info.
 
 ## Now that that's out of the way, you also get a couple of perks:
-1. You also now have access to our [internal installation metrics](https://build.wabbajack.org/metrics.html). These **ARE NOT publicly sharable and we reserve the right to revoke access if they are shared**, please keep this in mind.
-2. Be sure to check out the pins for some useful information on Wabbabot release messages, the CDN and general other stuff.
-3. You get access to this channel!
+
+1. Be sure to check out the pins for some useful information on Wabbabot release messages, the CDN and general other stuff.
+2. You get access to this channel!
 
 # Adding your list to the Wabbakinator
 
