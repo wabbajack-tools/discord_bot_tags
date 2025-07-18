@@ -2,7 +2,7 @@
 
 Modifying a Wabbajack modlist in any way is unsupported (Rule 11).
 
-The modlist author Lively made a good video that explores how the question "How can I add x ?" impacts people making modlists, it can be found [here](https://www.youtube.com/watch?v=izGoHgO4izc).
+The modlist author Lively made a good video that explores how the question "How can I add x ?" impacts people making modlists, it can be found [here](https://www.youtube.com/watch?v=izGoHgO4izc).  
 **Disclaimer:** Not every modlist author wants to or can support changes, so please be aware of this and check the individual server rules before asking for help with modifications to pre-made modlists.
 
 While we can't offer direct support here for making changes to existsing lists or for learning how to mod, we still want to encourage people to learn the skills to do it.
