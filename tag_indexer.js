@@ -48,7 +48,6 @@ function fetchYAMLAndProcess(path) {
                 href = null;           
             } else if (line.includes('text:')) {
                 href = extractHref(line);
-                console.log(href)
                 if (!readOnly) appendReadMe(`${mdUrl(title,href)}  \n`);
 
             }
