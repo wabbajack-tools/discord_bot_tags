@@ -16,7 +16,7 @@ async function fetchYAMLAndProcess(url) {
             line = line.trim();
             if (line.startsWith('#')) {
                 const commentText = line.substring(1).trim();
-                markdown_body.appendChild(this.createNode("h3",commentText);
+                markdown_body.appendChild(this.createNode("h3",commentText));
             } else if (line.includes(':')) {
                 const [key, value] = line.split(':').map(part => part.trim());
                 if (value.startsWith('text:')) {
