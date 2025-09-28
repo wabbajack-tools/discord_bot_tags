@@ -33,7 +33,7 @@ async function fetchYAMLAndProcess(url) {
             }
         });
 
-        document.body.innerHTML += output; // Append the output to the body
+        document.getElementsByClassName("markdown-body") += output; // Append the output to the body
     } catch (error) {
         console.error('Error fetching or processing the YAML file:', error);
     }
