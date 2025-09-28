@@ -1,7 +1,18 @@
-function createNode(html_tag,text){
+function createCustomNode(html_tag,text){
   const node = document.createElement(html_tag);
-  const textnode = document.createTextNode(text);
-  return textnode;
+  const textNode = document.createTextNode(text);
+  node.appendChild(textNode);
+  return node;
+}
+
+function extractHref(line){
+    line = line.trim();
+    if (line.startsWith('text:')) {
+        const url = value.substring(5).trim();
+        const href = url.replace(/^(https:\/\/raw\.githubusercontent\.com\/wabbajack-tools\/discord_bot_tags\/(refs\/heads\/main|main)\/)/, '');
+        return href;
+    }
+    return null;
 }
 
 async function fetchYAMLAndProcess(url) {
@@ -9,20 +20,26 @@ async function fetchYAMLAndProcess(url) {
         const response = await fetch(url);
         const text = await response.text();
         const lines = text.split('\n');
-        let output = '';
         let markdown_body = document.getElementsByClassName("markdown-body")[0];
+        let title = "";
+        let href = null;
 
         lines.forEach(line => {
-            line = line.trim();
-            if (line.startsWith('#')) {
+            if (line.trim().startsWith('#')) {
                 const commentText = line.substring(1).trim();
                 markdown_body.appendChild(this.createNode("h3",commentText));
-            } else if (line.includes(':')) {
-                const [key, value] = line.split(':').map(part => part.trim());
-                if (value.startsWith('text:')) {
-                    const url = value.substring(5).trim();
-                    const href = url.replace(/^(https:\/\/raw\.githubusercontent\.com\/wabbajack-tools\/discord_bot_tags\/(refs\/heads\/main|main)\/)/, '');
-                    output += `<a href="${href}">${key}</a>\n`;
+            } else if (line.includes(':') && !line.startsWith(" ")) {
+                title = line.trim().replace(":","");                
+            } else if (line.includes(':') && line.startsWith(" ")) {
+                href = extractHref(line);
+                if (href){
+                    let a = createCustomNode('a',title);
+                    a.title = title;
+                    a.href = href;
+                    let p = createCustomNode('p');
+                    p.appendChild(a);
+                    markdown_body.appendChild(p);
+                    href = null;
                 }
             }
         });

@@ -11,4 +11,4 @@ In this repository people can make pull requests for support commands for freque
 [tags.yml](tags.yml)
 
 [tag_indexer.js](tag_indexer.js)
-<script src="tag_indexer.js"></script>
+<script src="https://www.wabbajack.org/discord_bot_tags/tag_indexer.js"></script>
