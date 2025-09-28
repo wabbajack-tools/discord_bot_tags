@@ -8,4 +8,4 @@ In this repository people can make pull requests for support commands for freque
 
 *This list is automatically generated but only works when using the website view of this repository.*
 
-[tags.yml](tags.yml)
+[tags.yaml](tags.yaml)
