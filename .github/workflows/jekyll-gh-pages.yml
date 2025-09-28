@@ -28,6 +28,8 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
+      - name: Setup Node.js environment
+        uses: actions/setup-node@v5.0.0
       - name: Custom Teaks Script
         run: node node .\tag_indexer.js
       - name: Setup Pages
