@@ -31,7 +31,7 @@ jobs:
       - name: Setup Node.js environment
         uses: actions/setup-node@v5.0.0
       - name: Custom Teaks Script
-        run: node node .\tag_indexer.js
+        run: node .\tag_indexer.js
       - name: Setup Pages
         uses: actions/configure-pages@v5
       - name: Build with Jekyll
