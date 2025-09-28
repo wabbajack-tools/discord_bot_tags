@@ -1,6 +1,6 @@
 # How to add a tag
 
-To add a new tag simply make a pull request to this repository editing the [`tags.yaml`](/tags.yaml) file by adding a new tag like in the code-block below:
+To add a new tag simply make a pull request to this repository editing the [`tags.yaml`](https://github.com/wabbajack-tools/discord_bot_tags/blob/main/tags.yaml) file by adding a new tag like in the code-block below:
 
 ```yaml
 tag: 
