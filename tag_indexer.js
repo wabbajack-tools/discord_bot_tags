@@ -1,46 +1,56 @@
-function createCustomNode(html_tag,text){
-  const node = document.createElement(html_tag);
-  const textNode = document.createTextNode(text);
-  node.appendChild(textNode);
-  return node;
+const fs = require('fs');
+
+
+const readMeFile = "./README.md";
+
+const readOnly = false;
+
+function appendReadMe(line){
+    fs.appendFile(readMeFile, line, (err) => {
+        if (err) {
+            console.log(err);
+        }
+    });
 }
 
 function extractHref(line){
     line = line.trim();
     if (line.startsWith('text:')) {
-        const url = value.substring(5).trim();
+        const url = line.substring(5).trim();
         const href = url.replace(/^(https:\/\/raw\.githubusercontent\.com\/wabbajack-tools\/discord_bot_tags\/(refs\/heads\/main|main)\/)/, '');
         return href;
     }
     return null;
 }
 
-async function fetchYAMLAndProcess(url) {
+function mdUrl(title,url){
+    return `[${title}](${url})`;
+}
+
+function mdImage(alt_text,url){
+    return `![${alt_text}](${url})`;
+}
+
+function fetchYAMLAndProcess(path) {
     try {
-        const response = await fetch(url);
-        const text = await response.text();
-        const lines = text.split('\n');
-        let markdown_body = document.getElementsByClassName("markdown-body")[0];
+        const text = fs.readFileSync(path);
+        const lines = text.toString().split('\n');
         let title = "";
         let href = null;
+        let image = null;
 
         lines.forEach(line => {
             if (line.trim().startsWith('#')) {
                 const commentText = line.substring(1).trim();
-                markdown_body.appendChild(this.createNode("h3",commentText));
+                if (!readOnly) appendReadMe(`\n### ${commentText}\n\n`);
             } else if (line.includes(':') && !line.startsWith(" ")) {
-                title = line.trim().replace(":","");                
-            } else if (line.includes(':') && line.startsWith(" ")) {
+                title = line.trim().replace(":","");
+                href = null;           
+            } else if (line.includes('text:')) {
                 href = extractHref(line);
-                if (href){
-                    let a = createCustomNode('a',title);
-                    a.title = title;
-                    a.href = href;
-                    let p = createCustomNode('p');
-                    p.appendChild(a);
-                    markdown_body.appendChild(p);
-                    href = null;
-                }
+                console.log(href)
+                if (!readOnly) appendReadMe(`${mdUrl(title,href)}  \n`);
+
             }
         });
     } catch (error) {
@@ -48,4 +58,4 @@ async function fetchYAMLAndProcess(url) {
     }
 }
 
-fetchYAMLAndProcess('https://www.wabbajack.org/discord_bot_tags/tags.yaml');
+fetchYAMLAndProcess('./tags.yaml');
