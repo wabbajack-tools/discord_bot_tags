@@ -1,7 +1,5 @@
-## AI Tools are WRONG!
+## About AI Tools
 
-AI chats are dumb predictive text generators and NOT artificial intelligence.
-So they are the same as if you used your smartphone typed out your question and then hit whatever word your keyboard predicts you are typing.
-That prediction is literally the same thing those so called "AI"s are doing.
-
-We are not here to fix the garbage that those "AI"s recommended you should do or interpreting what gibberish it spits out.
+AI chat tools can sound confident but often give incomplete or misleading answers. New users usually can’t tell when something is wrong, which leads to broken setups or bad advice being posted here. 
+That creates extra work for maintainers who have to sort through and correct these mistakes. Please refrain from citing AI tools when modding, most of the people here have more modding experience
+than an AI chat program. 
