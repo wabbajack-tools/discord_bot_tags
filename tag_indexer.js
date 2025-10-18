@@ -23,8 +23,13 @@ function appendFile(filePath,line){
 
 function extractData(line){
     line = line.trim();
-    if (line.startsWith('text:') || line.startsWith('image:')) {
-        const url = line.substring(5).trim();
+    if (line.startsWith("content:")) {
+        const url = line.substring(8).trim();
+        const href = url.replace(/^(https:\/\/raw\.githubusercontent\.com\/wabbajack-tools\/discord_bot_tags\/(refs\/heads\/main|main)\/)/, '');
+        return href;
+    }
+    if (line.startsWith("image_url:")) {
+        const url = line.substring(10).trim();
         const href = url.replace(/^(https:\/\/raw\.githubusercontent\.com\/wabbajack-tools\/discord_bot_tags\/(refs\/heads\/main|main)\/)/, '');
         return href;
     }
@@ -36,7 +41,13 @@ function mdUrl(title,url){
 }
 
 function mdImage(alt_text,url){
-    return `![${alt_text}](${url})`;
+    return `\n![${alt_text}](${url})`;
+}
+
+function appendImageAndLog(href,image){
+    imageLine = mdImage("image",image);
+    console.log(`Adding:\n${imageLine}\nTo:${href}`);
+    appendFile(href,imageLine);
 }
 
 function fetchYAMLAndProcess(path) {
@@ -53,14 +64,18 @@ function fetchYAMLAndProcess(path) {
                 if (!readOnly) appendReadMe(`\n### ${commentText}\n\n`);
             } else if (line.includes(':') && !line.startsWith(" ")) {
                 title = line.trim().replace(":","");
-                href = null;           
-            } else if (line.includes('text:')) {
+                href = null;
+                image = null;     
+            } else if (line.includes('content:')) {
                 href = extractData(line);
                 if (!readOnly) appendReadMe(`${mdUrl(title,href)}  \n`);
-            } else if (line.includes('image:')) {
+                if (href && image){
+                    appendImageAndLog(href,image);
+                }
+            } else if (line.includes('image_url:')) {
                 image = extractData(line);
                 if (href && image){
-                    
+                    appendImageAndLog(href,image);
                 }
             }
         });
