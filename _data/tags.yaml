@@ -1,164 +1,164 @@
 #How to add a tag
 add_a_tag:
-  text: https://raw.githubusercontent.com/wabbajack-tools/discord_bot_tags/refs/heads/main/tags/permanent/general/add_a_tag.md
+  content: https://raw.githubusercontent.com/wabbajack-tools/discord_bot_tags/refs/heads/main/tags/permanent/general/add_a_tag.md
 #Discord Commands
 ai_answers:
-  text: https://raw.githubusercontent.com/wabbajack-tools/discord_bot_tags/refs/heads/main/tags/permanent/general/ai_answers.md
+  content: https://raw.githubusercontent.com/wabbajack-tools/discord_bot_tags/refs/heads/main/tags/permanent/general/ai_answers.md
 bestmodlist:
-  text: https://raw.githubusercontent.com/wabbajack-tools/discord_bot_tags/main/tags/permanent/general/bestmodlist.md
+  content: https://raw.githubusercontent.com/wabbajack-tools/discord_bot_tags/main/tags/permanent/general/bestmodlist.md
 listreadme:
-   text: https://raw.githubusercontent.com/wabbajack-tools/discord_bot_tags/main/tags/permanent/general/listreadme.md 
+   content: https://raw.githubusercontent.com/wabbajack-tools/discord_bot_tags/main/tags/permanent/general/listreadme.md 
 pins:
-    text: https://raw.githubusercontent.com/wabbajack-tools/discord_bot_tags/main/tags/permanent/general/pins.md  
+    content: https://raw.githubusercontent.com/wabbajack-tools/discord_bot_tags/main/tags/permanent/general/pins.md  
     image_url: https://raw.githubusercontent.com/wabbajack-tools/discord_bot_tags/main/tags/permanent/general/DiscordPin_new.png
 patience:
-    text: https://raw.githubusercontent.com/wabbajack-tools/discord_bot_tags/main/tags/permanent/general/patience.md
+    content: https://raw.githubusercontent.com/wabbajack-tools/discord_bot_tags/main/tags/permanent/general/patience.md
 support:
-    text: https://raw.githubusercontent.com/wabbajack-tools/discord_bot_tags/main/tags/permanent/general/support.md
+    content: https://raw.githubusercontent.com/wabbajack-tools/discord_bot_tags/main/tags/permanent/general/support.md
 it_dead:
-    text: https://raw.githubusercontent.com/wabbajack-tools/discord_bot_tags/main/tags/permanent/general/it_is_dead.md
+    content: https://raw.githubusercontent.com/wabbajack-tools/discord_bot_tags/main/tags/permanent/general/it_is_dead.md
     image_url: https://raw.githubusercontent.com/wabbajack-tools/discord_bot_tags/main/tags/permanent/general/Itsdead.png
 pineapple_on_pizza:
-    text: https://raw.githubusercontent.com/wabbajack-tools/discord_bot_tags/main/tags/permanent/general/pineapple_on_pizza.md
+    content: https://raw.githubusercontent.com/wabbajack-tools/discord_bot_tags/main/tags/permanent/general/pineapple_on_pizza.md
 pizza_no_pineapple:
-    text: https://raw.githubusercontent.com/wabbajack-tools/discord_bot_tags/main/tags/permanent/general/pizza_no_pineapple.md
+    content: https://raw.githubusercontent.com/wabbajack-tools/discord_bot_tags/main/tags/permanent/general/pizza_no_pineapple.md
 no_access:
-    text: https://raw.githubusercontent.com/wabbajack-tools/discord_bot_tags/main/tags/permanent/general/no_access.md
+    content: https://raw.githubusercontent.com/wabbajack-tools/discord_bot_tags/main/tags/permanent/general/no_access.md
 #Wabbajack Commands
 api:
-    text: https://raw.githubusercontent.com/wabbajack-tools/discord_bot_tags/main/tags/permanent/general/API.md
+    content: https://raw.githubusercontent.com/wabbajack-tools/discord_bot_tags/main/tags/permanent/general/API.md
 Compatibility:
-    text: https://raw.githubusercontent.com/wabbajack-tools/discord_bot_tags/main/tags/permanent/general/Compatibility.md 
+    content: https://raw.githubusercontent.com/wabbajack-tools/discord_bot_tags/main/tags/permanent/general/Compatibility.md 
 fal:
-    text: https://raw.githubusercontent.com/wabbajack-tools/discord_bot_tags/main/tags/permanent/general/fal.md
+    content: https://raw.githubusercontent.com/wabbajack-tools/discord_bot_tags/main/tags/permanent/general/fal.md
 failed_install:
-    text: https://raw.githubusercontent.com/wabbajack-tools/discord_bot_tags/main/tags/permanent/general/failed.md
+    content: https://raw.githubusercontent.com/wabbajack-tools/discord_bot_tags/main/tags/permanent/general/failed.md
 folder:
-    text: https://raw.githubusercontent.com/wabbajack-tools/discord_bot_tags/main/tags/permanent/general/folder.md
+    content: https://raw.githubusercontent.com/wabbajack-tools/discord_bot_tags/main/tags/permanent/general/folder.md
 gamepass:
-    text: https://raw.githubusercontent.com/wabbajack-tools/discord_bot_tags/main/tags/permanent/general/gamepass.md
+    content: https://raw.githubusercontent.com/wabbajack-tools/discord_bot_tags/main/tags/permanent/general/gamepass.md
 gff:
-  text: https://raw.githubusercontent.com/wabbajack-tools/discord_bot_tags/main/tags/permanent/general/gff.md
+  content: https://raw.githubusercontent.com/wabbajack-tools/discord_bot_tags/main/tags/permanent/general/gff.md
   image_url: https://raw.githubusercontent.com/wabbajack-tools/discord_bot_tags/main/tags/permanent/general/gff.png
 hanging_downloads:
-  text: https://raw.githubusercontent.com/wabbajack-tools/discord_bot_tags/main/tags/permanent/general/Hang.md
+  content: https://raw.githubusercontent.com/wabbajack-tools/discord_bot_tags/main/tags/permanent/general/Hang.md
 hashfails:
-   text: https://raw.githubusercontent.com/wabbajack-tools/discord_bot_tags/main/tags/permanent/general/hashfails.md
+   content: https://raw.githubusercontent.com/wabbajack-tools/discord_bot_tags/main/tags/permanent/general/hashfails.md
 installconfig:
-  text: https://raw.githubusercontent.com/wabbajack-tools/discord_bot_tags/main/tags/permanent/general/installconfig.md
+  content: https://raw.githubusercontent.com/wabbajack-tools/discord_bot_tags/main/tags/permanent/general/installconfig.md
   image_url: https://raw.githubusercontent.com/wabbajack-tools/discord_bot_tags/main/tags/permanent/general/installconfig.png
 language:
-    text: https://raw.githubusercontent.com/wabbajack-tools/discord_bot_tags/main/tags/permanent/general/language.md
+    content: https://raw.githubusercontent.com/wabbajack-tools/discord_bot_tags/main/tags/permanent/general/language.md
     image_url: https://raw.githubusercontent.com/wabbajack-tools/discord_bot_tags/main/tags/permanent/general/language.png
 lists:
-    text: https://raw.githubusercontent.com/wabbajack-tools/discord_bot_tags/main/tags/permanent/general/lists.md
+    content: https://raw.githubusercontent.com/wabbajack-tools/discord_bot_tags/main/tags/permanent/general/lists.md
 loadorder:
-    text: https://raw.githubusercontent.com/wabbajack-tools/discord_bot_tags/main/tags/permanent/general/lists.md
+    content: https://raw.githubusercontent.com/wabbajack-tools/discord_bot_tags/main/tags/permanent/general/lists.md
 mega:
-    text: https://raw.githubusercontent.com/wabbajack-tools/discord_bot_tags/main/tags/permanent/general/Mega.md
+    content: https://raw.githubusercontent.com/wabbajack-tools/discord_bot_tags/main/tags/permanent/general/Mega.md
 maintenance:
-    text: https://raw.githubusercontent.com/wabbajack-tools/discord_bot_tags/main/tags/permanent/general/maintenance.md
+    content: https://raw.githubusercontent.com/wabbajack-tools/discord_bot_tags/main/tags/permanent/general/maintenance.md
 modlists:
-    text: https://raw.githubusercontent.com/wabbajack-tools/discord_bot_tags/main/tags/permanent/general/modlists.md  
+    content: https://raw.githubusercontent.com/wabbajack-tools/discord_bot_tags/main/tags/permanent/general/modlists.md  
 Modlist_txt:
-    text: https://raw.githubusercontent.com/wabbajack-tools/discord_bot_tags/main/tags/permanent/general/Modlist_txt.md
+    content: https://raw.githubusercontent.com/wabbajack-tools/discord_bot_tags/main/tags/permanent/general/Modlist_txt.md
 morrowind:
-    text: https://raw.githubusercontent.com/wabbajack-tools/discord_bot_tags/main/tags/permanent/general/morrowind.md
+    content: https://raw.githubusercontent.com/wabbajack-tools/discord_bot_tags/main/tags/permanent/general/morrowind.md
     image_url: https://raw.githubusercontent.com/wabbajack-tools/discord_bot_tags/main/tags/permanent/general/morrowwind.jpg
 nexus:
-  text: https://raw.githubusercontent.com/wabbajack-tools/discord_bot_tags/main/tags/permanent/general/nexus.md
+  content: https://raw.githubusercontent.com/wabbajack-tools/discord_bot_tags/main/tags/permanent/general/nexus.md
 nomatch:
-  text: https://raw.githubusercontent.com/wabbajack-tools/discord_bot_tags/main/tags/permanent/general/NoMatch.MD
+  content: https://raw.githubusercontent.com/wabbajack-tools/discord_bot_tags/main/tags/permanent/general/NoMatch.MD
 path_not_found:
-  text: https://raw.githubusercontent.com/wabbajack-tools/discord_bot_tags/main/tags/permanent/general/Path.md
+  content: https://raw.githubusercontent.com/wabbajack-tools/discord_bot_tags/main/tags/permanent/general/Path.md
 progressbars:
-  text: https://raw.githubusercontent.com/wabbajack-tools/discord_bot_tags/main/tags/permanent/general/ProgressBars.md
+  content: https://raw.githubusercontent.com/wabbajack-tools/discord_bot_tags/main/tags/permanent/general/ProgressBars.md
   image_url: https://raw.githubusercontent.com/wabbajack-tools/discord_bot_tags/main/tags/permanent/general/Settings.png
 refresh_nexus_login:
-  text: https://raw.githubusercontent.com/wabbajack-tools/discord_bot_tags/main/tags/permanent/general/refresh_nexus_login.md
+  content: https://raw.githubusercontent.com/wabbajack-tools/discord_bot_tags/main/tags/permanent/general/refresh_nexus_login.md
   image_url: https://raw.githubusercontent.com/wabbajack-tools/discord_bot_tags/main/tags/permanent/general/relog.png
 relog:
-  text: https://raw.githubusercontent.com/wabbajack-tools/discord_bot_tags/main/tags/permanent/general/refresh_nexus_login.md
+  content: https://raw.githubusercontent.com/wabbajack-tools/discord_bot_tags/main/tags/permanent/general/refresh_nexus_login.md
   image_url: https://raw.githubusercontent.com/wabbajack-tools/discord_bot_tags/main/tags/permanent/general/relog.png
 sanitycheck:
-  text: https://raw.githubusercontent.com/wabbajack-tools/discord_bot_tags/main/tags/permanent/general/sanitycheck.md
+  content: https://raw.githubusercontent.com/wabbajack-tools/discord_bot_tags/main/tags/permanent/general/sanitycheck.md
 screenshot:
-    text: https://raw.githubusercontent.com/wabbajack-tools/discord_bot_tags/main/tags/permanent/general/Screenshot.md  
+    content: https://raw.githubusercontent.com/wabbajack-tools/discord_bot_tags/main/tags/permanent/general/Screenshot.md  
     image_url: https://raw.githubusercontent.com/wabbajack-tools/discord_bot_tags/main/tags/permanent/general/GameLocationScreenshot.png
 str:
-    text: https://raw.githubusercontent.com/wabbajack-tools/discord_bot_tags/main/tags/permanent/general/str.md
+    content: https://raw.githubusercontent.com/wabbajack-tools/discord_bot_tags/main/tags/permanent/general/str.md
 stuck:
-    text: https://raw.githubusercontent.com/wabbajack-tools/discord_bot_tags/main/tags/permanent/general/Stuck.md
+    content: https://raw.githubusercontent.com/wabbajack-tools/discord_bot_tags/main/tags/permanent/general/Stuck.md
 texconv:
-  text: https://raw.githubusercontent.com/wabbajack-tools/discord_bot_tags/main/tags/permanent/general/texconv.md
+  content: https://raw.githubusercontent.com/wabbajack-tools/discord_bot_tags/main/tags/permanent/general/texconv.md
 update_modlist:
-  text: https://raw.githubusercontent.com/wabbajack-tools/discord_bot_tags/main/tags/permanent/general/update_modlist.md
+  content: https://raw.githubusercontent.com/wabbajack-tools/discord_bot_tags/main/tags/permanent/general/update_modlist.md
 welcome_modlist:
-  text: https://raw.githubusercontent.com/wabbajack-tools/discord_bot_tags/main/tags/permanent/general/Welcome.md
+  content: https://raw.githubusercontent.com/wabbajack-tools/discord_bot_tags/main/tags/permanent/general/Welcome.md
 wjlog:
-    text: https://raw.githubusercontent.com/wabbajack-tools/discord_bot_tags/main/tags/permanent/general/wjlog.md
+    content: https://raw.githubusercontent.com/wabbajack-tools/discord_bot_tags/main/tags/permanent/general/wjlog.md
     image_url: https://raw.githubusercontent.com/wabbajack-tools/discord_bot_tags/main/tags/permanent/general/wjlognew.png
 wjreset:
-    text: https://raw.githubusercontent.com/wabbajack-tools/discord_bot_tags/main/tags/permanent/general/wjreset.md
+    content: https://raw.githubusercontent.com/wabbajack-tools/discord_bot_tags/main/tags/permanent/general/wjreset.md
 wjtutorial:
-    text: https://raw.githubusercontent.com/wabbajack-tools/discord_bot_tags/main/tags/permanent/general/wjtutorial.md
+    content: https://raw.githubusercontent.com/wabbajack-tools/discord_bot_tags/main/tags/permanent/general/wjtutorial.md
 #MO2 Commands
 dontunlock:
-    text: https://raw.githubusercontent.com/wabbajack-tools/discord_bot_tags/main/tags/permanent/general/dontunlock.md
+    content: https://raw.githubusercontent.com/wabbajack-tools/discord_bot_tags/main/tags/permanent/general/dontunlock.md
     image_url: https://raw.githubusercontent.com/wabbajack-tools/discord_bot_tags/main/tags/permanent/general/dontunlock.png
 #Windows & General Troubleshooting
 antivirus:
-    text: https://raw.githubusercontent.com/wabbajack-tools/discord_bot_tags/main/tags/permanent/general/antivirus.md  
+    content: https://raw.githubusercontent.com/wabbajack-tools/discord_bot_tags/main/tags/permanent/general/antivirus.md  
 cdn:
-    text: https://raw.githubusercontent.com/wabbajack-tools/discord_bot_tags/main/tags/permanent/general/cdn.md
+    content: https://raw.githubusercontent.com/wabbajack-tools/discord_bot_tags/main/tags/permanent/general/cdn.md
     image_url: https://raw.githubusercontent.com/wabbajack-tools/discord_bot_tags/main/tags/permanent/general/cdn.png
 dotnet:
-    text: https://raw.githubusercontent.com/wabbajack-tools/discord_bot_tags/main/tags/permanent/general/dotnet.md
+    content: https://raw.githubusercontent.com/wabbajack-tools/discord_bot_tags/main/tags/permanent/general/dotnet.md
 folders_files:
-    text: https://raw.githubusercontent.com/wabbajack-tools/discord_bot_tags/main/tags/permanent/general/folders_and_files.md
+    content: https://raw.githubusercontent.com/wabbajack-tools/discord_bot_tags/main/tags/permanent/general/folders_and_files.md
 intel:
-  text: https://raw.githubusercontent.com/wabbajack-tools/discord_bot_tags/main/tags/permanent/general/intel.md
+  content: https://raw.githubusercontent.com/wabbajack-tools/discord_bot_tags/main/tags/permanent/general/intel.md
 iris:
-    text: https://raw.githubusercontent.com/wabbajack-tools/discord_bot_tags/main/tags/permanent/general/iris.md
+    content: https://raw.githubusercontent.com/wabbajack-tools/discord_bot_tags/main/tags/permanent/general/iris.md
 learn2mod:
-  text: https://raw.githubusercontent.com/wabbajack-tools/discord_bot_tags/main/tags/permanent/general/how_to_mod.md
+  content: https://raw.githubusercontent.com/wabbajack-tools/discord_bot_tags/main/tags/permanent/general/how_to_mod.md
 locale:
-    text: https://raw.githubusercontent.com/wabbajack-tools/discord_bot_tags/main/tags/permanent/general/locale.md
+    content: https://raw.githubusercontent.com/wabbajack-tools/discord_bot_tags/main/tags/permanent/general/locale.md
 pagefile:
-    text: https://raw.githubusercontent.com/wabbajack-tools/discord_bot_tags/main/tags/permanent/general/pagefile.md
+    content: https://raw.githubusercontent.com/wabbajack-tools/discord_bot_tags/main/tags/permanent/general/pagefile.md
 scaling:
-    text: https://raw.githubusercontent.com/wabbajack-tools/discord_bot_tags/main/tags/permanent/general/scaling.md
+    content: https://raw.githubusercontent.com/wabbajack-tools/discord_bot_tags/main/tags/permanent/general/scaling.md
     image_url: https://raw.githubusercontent.com/wabbajack-tools/discord_bot_tags/main/tags/permanent/general/scaling.webp
 steamlibrary:
-    text: https://raw.githubusercontent.com/wabbajack-tools/discord_bot_tags/main/tags/permanent/general/steamlibrary.md
+    content: https://raw.githubusercontent.com/wabbajack-tools/discord_bot_tags/main/tags/permanent/general/steamlibrary.md
 uac:
-  text: https://raw.githubusercontent.com/wabbajack-tools/discord_bot_tags/main/tags/permanent/general/uac.md
+  content: https://raw.githubusercontent.com/wabbajack-tools/discord_bot_tags/main/tags/permanent/general/uac.md
   image_url: https://raw.githubusercontent.com/wabbajack-tools/discord_bot_tags/main/tags/permanent/general/uac.png
 vc:
-    text: https://raw.githubusercontent.com/wabbajack-tools/discord_bot_tags/main/tags/permanent/general/vc.md
+    content: https://raw.githubusercontent.com/wabbajack-tools/discord_bot_tags/main/tags/permanent/general/vc.md
 verify_game_files:
-  text: https://raw.githubusercontent.com/wabbajack-tools/discord_bot_tags/main/tags/permanent/general/verify_game_files.md
+  content: https://raw.githubusercontent.com/wabbajack-tools/discord_bot_tags/main/tags/permanent/general/verify_game_files.md
 vpn:
-    text: https://raw.githubusercontent.com/wabbajack-tools/discord_bot_tags/main/tags/permanent/general/vpn.md
+    content: https://raw.githubusercontent.com/wabbajack-tools/discord_bot_tags/main/tags/permanent/general/vpn.md
 webv:
-    text: https://raw.githubusercontent.com/wabbajack-tools/discord_bot_tags/main/tags/permanent/general/Webv.md
+    content: https://raw.githubusercontent.com/wabbajack-tools/discord_bot_tags/main/tags/permanent/general/Webv.md
 winupdate:
-    text: https://raw.githubusercontent.com/wabbajack-tools/discord_bot_tags/main/tags/permanent/general/winupdate.md
+    content: https://raw.githubusercontent.com/wabbajack-tools/discord_bot_tags/main/tags/permanent/general/winupdate.md
 wjcrash:
-    text: https://raw.githubusercontent.com/wabbajack-tools/discord_bot_tags/main/tags/permanent/general/winupdate.md
+    content: https://raw.githubusercontent.com/wabbajack-tools/discord_bot_tags/main/tags/permanent/general/winupdate.md
 #Game Specific Commands
 aecc:
-    text: https://raw.githubusercontent.com/wabbajack-tools/discord_bot_tags/main/tags/permanent/game/skyrim/aecc.md
+    content: https://raw.githubusercontent.com/wabbajack-tools/discord_bot_tags/main/tags/permanent/game/skyrim/aecc.md
 camo:
-    text: https://raw.githubusercontent.com/wabbajack-tools/discord_bot_tags/main/tags/permanent/game/fallout4/camo.md
+    content: https://raw.githubusercontent.com/wabbajack-tools/discord_bot_tags/main/tags/permanent/game/fallout4/camo.md
 creationkit:
-    text: https://raw.githubusercontent.com/wabbajack-tools/discord_bot_tags/main/tags/permanent/game/skyrim/ck.md
+    content: https://raw.githubusercontent.com/wabbajack-tools/discord_bot_tags/main/tags/permanent/game/skyrim/ck.md
 curios:
-    text: https://raw.githubusercontent.com/wabbajack-tools/discord_bot_tags/main/tags/permanent/game/skyrim/curios.md
+    content: https://raw.githubusercontent.com/wabbajack-tools/discord_bot_tags/main/tags/permanent/game/skyrim/curios.md
 downgrade_creationkit:
-    text: https://raw.githubusercontent.com/wabbajack-tools/discord_bot_tags/main/tags/temporary/game/skyrim/downgrade_creationkit.md
+    content: https://raw.githubusercontent.com/wabbajack-tools/discord_bot_tags/main/tags/temporary/game/skyrim/downgrade_creationkit.md
 fix_fnv_installscript:
-    text: https://raw.githubusercontent.com/wabbajack-tools/discord_bot_tags/main/tags/permanent/game/falloutnewvegas/fix_fnv_installscript.md
+    content: https://raw.githubusercontent.com/wabbajack-tools/discord_bot_tags/main/tags/permanent/game/falloutnewvegas/fix_fnv_installscript.md
 rayekendsanity:
-  text: https://raw.githubusercontent.com/wabbajack-tools/discord_bot_tags/main/tags/permanent/game/skyrim/ReyakEndSanity.md
+  content: https://raw.githubusercontent.com/wabbajack-tools/discord_bot_tags/main/tags/permanent/game/skyrim/ReyakEndSanity.md
     
