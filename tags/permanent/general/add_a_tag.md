@@ -24,3 +24,10 @@ So the added tag in this case would be:
   content: 'tags/permanent/general/tag_name.md'
   triggers: ["Example Trigger", "Different Valid Example Trigger"] # List of log triggers for the tag bot to respond to with this tag.
 ```
+
+To add an `alias` for a tag you add a new tag that needs to look like the following:
+
+```yaml
+- name: alias_tag # Alias command
+  source_tag: tag_name # Command for the tag that should be triggered.
+```
