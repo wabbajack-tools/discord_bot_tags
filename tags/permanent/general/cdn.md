@@ -6,4 +6,4 @@ You can access this area by clicking on your account in the top right, and selec
 
 https://www.nexusmods.com/
 
-![image](tags/permanent/general/cdn.png)
+![image](cdn.png)

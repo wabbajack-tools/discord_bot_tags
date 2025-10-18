@@ -18,18 +18,24 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Your awesome title
+title: Wabbajack Tagbot Tags
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  A collection of all the responses for the Wabbajack Tagbot.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
 theme: minima
-# plugins:
-#   - jekyll-readme-index
+plugins:
+  - jekyll-coffeescript
+  - jekyll-default-layout
+  - jekyll-github-metadata
+  - jekyll-optional-front-matter
+  - jekyll-paginate
+  - jekyll-readme-index
+  - jekyll-titles-from-headings
+  - jekyll-relative-links
+
 #   - jekyll-feed
 
 # Exclude from processing.
@@ -57,4 +63,6 @@ exclude:
   - .vendor/gems/
   - .vendor/ruby/
 include:
-  - _data
+  - _data/
+  - README.md
+

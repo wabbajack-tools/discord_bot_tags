@@ -8,4 +8,4 @@ If you don't want wabbajack to do multiple downloads, or you want to restrict it
 
 You cannot move/minimize this window while its present as we have had issues in the past of users minimizing or closing the download window and then complaining because their install has "frozen".
 
-![image](tags/permanent/general/Settings.png)
+![image](Settings.png)

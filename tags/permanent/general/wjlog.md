@@ -8,4 +8,4 @@ For example, `C:\Wabbajack\3.7.4.1\logs\Wabbajack.current.log`.
 
 Then copy and paste / upload the file in this channel.
 
-![image](tags/permanent/general/wjlognew.png)
+![image](wjlognew.png)

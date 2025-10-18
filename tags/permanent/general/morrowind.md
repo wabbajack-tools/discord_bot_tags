@@ -20,4 +20,4 @@ Once you have your Portable Instance ready then go to your Global/Pseudo Portabl
 
 Use the new Portable instance for Wabbajack compilation, you can delete your old one.
 
-![image](tags/permanent/general/morrowwind.jpg)
+![image](morrowwind.jpg)

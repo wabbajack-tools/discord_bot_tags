@@ -14,4 +14,4 @@ If you have a customised installation of Windows and cannot access UAC try the f
 
 *Wabbajack is not responsible for any issues arising from attempting to run the application on non-standard Windows installations.*
 
-![image](tags/permanent/general/uac.png)
+![image](uac.png)

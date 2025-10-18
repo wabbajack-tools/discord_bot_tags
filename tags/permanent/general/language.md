@@ -6,4 +6,4 @@ The below image shows you how to change the system Language of a steam game.
 
 Once done, restart your Wabbajack installation with the same paths as you previously entered. Wabbajack will resume from the point of failure.
 
-![image](tags/permanent/general/language.png)
+![image](language.png)
