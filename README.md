@@ -1,3 +1,7 @@
+---
+layout: home
+permalink: /
+---
 # Configuration Repository for the Wabbjack Support Bot
 
 ## Use of this repository
@@ -6,6 +10,4 @@ In this repository people can make pull requests for support commands for freque
 
 ## Currently supported tags
 
-*This list is automatically generated but only works when using the website view of this repository.*
-
-[tags.yaml](tags.yaml)
+[_data/tags.yaml](_data/tags.yaml)
