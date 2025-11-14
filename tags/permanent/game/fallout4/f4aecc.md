@@ -24,4 +24,4 @@ If you have already bought Creations Bundle and your log says you are missing cr
 
 ### If Wabbajack still reports missing AE / Creations files
 
-If "download all" doesn't work and some files are still missing, check your Wabbajack log for the missing DLC files, match them with the relevant Creation Club Creation, if possible, and download each one manually from the in-game Creation Club menu.
+If "download all" doesn't work and some files are still missing, check your Wabbajack log for the missing DLC files, [match them with the relevant Creation Club mod from this list](https://fallout.wiki/wiki/Record_file#Creation_Club), and download each one manually from the in-game Creation Club menu.
