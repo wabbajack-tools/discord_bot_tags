@@ -1,17 +1,20 @@
 ## Hash Fails 
 
-Hashes for BSA or TEMP_BSA_FILES failures  is generally hardware related, and staff cannot unfortunatly wave a magic wand and resolve it for you.
+Hashes for BSA or TEMP_BSA_FILES failures is generally hardware related, and staff cannot unfortunatly wave a magic wand and resolve it for you.
 
-The most common cause for this issue is usually caused by running out of drive space (especially if your primary system drive or install drive is fairly low on free space) while it's unzipping and/or patching. You should generally make sure you have **30GB** more than the list requires free on both drives.
+These are the things which we know Can cause the issue:-
+1. running out of harddrive space, either on the install drive or the system drive  (especially if your primary system drive or install drive is fairly low on free space) while it's unzipping and/or patching. You should generally make sure you have **30GB** more than the list requires free on both drives.
+2. Over or Underclocking your CPU (Specifically amd overclocking on auto, but Intel cpu's may also have the same issue) - hash fail will normally mention **"SHA1"** if this is the case
+3. Hard drive failing / Bad sectors
+4. Installing to a external drive
+5. Rarely- This can occur if the wabbajack file was built using corrupt file(s) (but this would affect everyone installing the list)
 
-Some users also report that the issue is a result of overclocking your CPU. (Specifically amd overclocking on auto, but Intel cpu's may also have the same issue)
+## How to fix a hash fail
+* Check you have 30gb  free space on your system drive, Make sure you have enough free space on the install drive for both the downloads, install space and a extra 30gb if running wabbajack from this drive as well.
+* You can also try removing any overclocking you have enabled and see if that resolves the fails.
+* Check the install drive for errors (windows has a tool you can use to check this)
+* Check the modlist discord to see if anyone else is reporting issues with the file that you are having problems with
+* Avoid installing on external drives - these are generally not recommended as they are slow.
+* Most users can generally 'brute force' the install to sucess through by running the install over and over until it succeeds, especially if it's failing on different files every time.
 
-Most users can generally brute force it through by running the install over and over until it succeeds, especially if it's failing on different files every time. But you can also try removing any overclocking you have enabled and see if that resolves the fails.
-
-Finally As a last resort (note this will not work if the list requires downloads from MEGA) you can try a older version of wabbajack. You should ONLY do this if you are getting **consistent failures on the same files**, the hash fail mentions a **"SHA1"** fail, or you have retried 20+ times and have checked overclocking is off and you have sufficiant free space on your drives.
-
- **Downgrade Wabbajack to [3.6.1.1](https://github.com/wabbajack-tools/wabbajack/releases/download/3.6.1.1/3.6.1.1.zip)**  
-   Get that zip file, unzip it somewhere (**a folder called 3.6.1.1 inside the directory where you're currently running Wabbajack from is a good idea**).  
-   Run Wabbajack from inside that folder and choose the same folders as you currently do.  
-
-### UNDER NO CIRCUMSTANCES SHOULD YOU DELETE ANY PART OF THE MODLIST 
+### UNDER NO CIRCUMSTANCES SHOULD YOU DELETE ANY PART OF THE MODLIST. Its not a problem with your files. its a problem extracting / patching them.
