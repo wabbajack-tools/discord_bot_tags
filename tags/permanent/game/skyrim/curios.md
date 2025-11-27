@@ -18,10 +18,11 @@ If the file was called `ccbgssse037-curios.bsa` with a lower case curios
 If the file was called `ccbgssse037-Curios.bsa` with an upper case Curios
 1. Launch Skyrim Special Edition from Steam.
 2. Select Creations from the main menu.
-3. Select Search at the bottom.
-4. Enter Rare Curios in the search box
-5. Download Rare Curios.   
+3. Select Category at the bottom, or press Shift.
+4. Select the category Creation Club.
+5. Find "Rare Curios" in the alphabetically sorted list.
+6. Download Rare Curios.
    **DO NOT Alt+Tab; you must leave the game window active or the download will stop.**
-6. Exit the game.  DO NOT perform a verify in Steam.
-7. Go back to your Skyrim\data folder and verify that you now have two new files that start with a lower case c.
-8. Rerun the Wabbajack installation.
+7. Exit the game.  DO NOT perform a verify in Steam.
+8. Go back to your Skyrim\data folder and verify that you now have two new files that start with a lower case c.
+9. Rerun the Wabbajack installation.
