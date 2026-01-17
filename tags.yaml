@@ -166,4 +166,5 @@ fix_fnv_installscript:
     text: https://raw.githubusercontent.com/wabbajack-tools/discord_bot_tags/main/tags/permanent/game/falloutnewvegas/fix_fnv_installscript.md
 rayekendsanity:
   text: https://raw.githubusercontent.com/wabbajack-tools/discord_bot_tags/main/tags/permanent/game/skyrim/ReyakEndSanity.md
-    
+tescan:
+    text: https://raw.githubusercontent.com/wabbajack-tools/discord_bot_tags/main/tags/permanent/game/fallout4/tescan.md
