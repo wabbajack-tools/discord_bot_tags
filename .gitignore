@@ -1,1 +1,7 @@
 README2.md
+node_modules/
+dist/
+.DS_Store
+*.local
+src/data/metadata.json
+src/data/searchIndex.json
