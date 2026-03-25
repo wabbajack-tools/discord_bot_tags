@@ -14,7 +14,7 @@ If you are not sure what version of windows you are running Press `Windows + R`,
 
 If you need to update windows using either method outlined above - Select the "Update Now" button for the Update Assistant to begin the update process.
 
-#### Other known cause
+### Other known cause
 
 If on 25H2 of Windows 11. we have had multiple reports of Smart App control blocking various DLL's that wabbajack needs to function. It can be turned off from Windows Security > App and browser control. There is no known alternative work around at this time.
 
