@@ -8,4 +8,4 @@ Please note: You need the special edition version of Creation kit, not the Oldri
 
 Edit 27th March 2026. 
 
-Steam in its infinate wisdom has started to install creation kit in "Skyrim Special Edition 1946180" instead of "Skyrim Special Edition" If this is the case for you, you need to move the contents of the 1946180 folder into your main skyrim folder. You should then be able to install 
+Steam in its infinite wisdom has started to install creation kit in "Skyrim Special Edition 1946180" instead of "Skyrim Special Edition" If this is the case for you, you need to move the contents of the 1946180 folder into your main skyrim folder. You should then be able to install 
