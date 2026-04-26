@@ -1,6 +1,6 @@
-# Broken or Fail download links
+# Broken download links
 
-Wabbajack staff **cannot** provide you mirrors for broken downloads.
+Wabbajack staff **cannot** provide you mirrors for broken download links.
 
 You will need to either go to the appropriate support discord for the list you are trying to install and find assistance there or consult their Nexus page, forum or wherever you downloaded the list from for assistance.
 
