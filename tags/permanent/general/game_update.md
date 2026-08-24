@@ -1,4 +1,4 @@
-## Game updated
+## Game Updated
 
 The base game of the list you are trying to install has had a update recently which requires the wabbajack list to be recompiled using the latest game files.
 
