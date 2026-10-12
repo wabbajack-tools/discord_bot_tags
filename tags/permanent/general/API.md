@@ -1,8 +1,13 @@
-## Nexus API Limits
-Wabbajack uses the Nexus Mods API in order to automatically download files (only available with a Nexus Mods Premium account). The API has a limit to restrict the number of automated interactions a user account can have with the site in a given time frame in order to help mitigate the site being impacted by massive volumes of requests.
+## Nexus Mods API Rate Limits
 
-**If you run out of API calls you will have to wait until they reset or manually download missing mods and put them in your downloads folder.**
+Wabbajack uses the Nexus Mods API to retrieve file information and facilitate downloads. Nexus Mods limits the number of API requests each account can make.
 
-**API allocations reset daily at <t:1731024000:t> (Midnight UTC).**
+**If you exceed your API allowance, you must wait until the relevant limit resets.**
+
+API allocations reset daily at **<t:1731024000:t> (Midnight UTC).**
+
+Hourly allowance reset at: **At the start of each hour (UTC)**
 
 *This is a limitation imposed by Nexus Mods and cannot be circumvented or changed by Wabbajack.*
+
+More information: https://help.nexusmods.com/article/105-i-have-reached-a-daily-or-hourly-limit-api-requests-have-been-consumed-rate-limit-exceeded-what-does-this-mean
