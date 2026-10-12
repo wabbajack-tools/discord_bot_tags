@@ -1,20 +1,14 @@
-## Hash Fails 
+## Hash Failures
 
-Hashes for BSA or TEMP_BSA_FILES failures is generally hardware related, and staff cannot unfortunatly wave a magic wand and resolve it for you.
+Hash failures involving `BSA` or `TEMP_BSA_FILES` indicate that Wabbajack could not successfully verify a file during extraction, processing, or patching. Several factors can cause this, including insufficient disk space, unstable hardware, storage errors, or corrupted source files. A hash failure alone does not identify the underlying cause.
 
-These are the things which we know Can cause the issue:-
-1. running out of harddrive space, either on the install drive or the system drive  (especially if your primary system drive or install drive is fairly low on free space) while it's unzipping and/or patching. You should generally make sure you have **30GB** more than the list requires free on both drives.
-2. Over or Underclocking your CPU (Specifically amd overclocking on auto, but Intel cpu's may also have the same issue) - hash fail will normally mention **"SHA1"** if this is the case
-3. Hard drive failing / Bad sectors
-4. Installing to a external drive
-5. Rarely- This can occur if the wabbajack file was built using corrupt file(s) (but this would affect everyone installing the list)
+**Troubleshooting:**
 
-## How to fix a hash fail
-* Check you have 30gb  free space on your system drive, Make sure you have enough free space on the install drive for both the downloads, install space and a extra 30gb if running wabbajack from this drive as well.
-* You can also try removing any overclocking you have enabled and see if that resolves the fails.
-* Check the install drive for errors (windows has a tool you can use to check this)
-* Check the modlist discord to see if anyone else is reporting issues with the file that you are having problems with
-* Avoid installing on external drives - these are generally not recommended as they are slow.
-* Most users can generally 'brute force' the install to sucess through by running the install over and over until it succeeds, especially if it's failing on different files every time.
+1. Ensure your installation drive and Windows system drive have sufficient free space. Temporary extraction and patching may require additional space beyond the modlist's stated requirements. We recommend approximately 15% additional free space. For example, a modlist requiring 150 GB of installation space should have at least 172.5 GB available, in addition to the space required for downloads.
+2. If your CPU or RAM is overclocked or undervolted, temporarily restore default settings to rule out instability.
+3. Check your storage drive for errors and review its health if failures persist.
+4. Check the modlist's support channels for reports of the same error.
+5. Restart the installation using your existing installation and downloads directories.
+6. Avoid installing modlists on external drives, particularly older or unreliable ones, as they can cause file corruption during extraction and patching. An internal SSD is recommended. If using an external drive is unavoidable, repeatedly restarting the installation may eventually succeed, although this is not a reliable solution.
 
-### UNDER NO CIRCUMSTANCES SHOULD YOU DELETE ANY PART OF THE MODLIST. Its not a problem with your files. its a problem extracting / patching them.
+**Do not delete your existing installation or download files when troubleshooting these hash failures.**

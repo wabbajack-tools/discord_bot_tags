@@ -1,28 +1,21 @@
-## Sanity check errors
+## Sanity Check Errors
 
-Sanity check errors are normally caused by one of three things :-
+A sanity check error means that Wabbajack encountered an unexpected result while validating or processing files. The cause depends on the specific error and the operation that failed.
 
-### System Locale
+**Troubleshooting:**
 
-If your system locale (language) is set to any language not using Latin-script letters (like English does), set your system language to English or any other Latin-script language which you can understand, and the issue is likely fixed.
+1. Check the exact error message and identify the affected file or operation.
+2. Ensure sufficient free space is available on both the installation and system drives.
+3. Check for possible file corruption or storage errors if extraction or verification repeatedly fails.
+4. If a downloaded archive, mod file, or modlist `.wabbajack` file is confirmed to be corrupted, delete only the affected file and allow Wabbajack to download or recreate it. Modlist `.wabbajack` files are stored in the `downloaded_mod_lists` folder within Wabbajack's version-specific directory.
+5. If the error involves unusual characters in filenames, check your Windows system locale. To change it:
+   - Press `Win + R`, enter `intl.cpl`, and press Enter.
+   - Select **Administrative → Change system locale**.
+   - Temporarily select **English (United States)** and uncheck **Beta: Use Unicode UTF-8 for worldwide language support**.
+   - Restart Windows and retry the installation.
+   - Restore your original settings after installation. See [Microsoft's guidance on regional settings](https://support.microsoft.com/en-us/servicing/os/windows/2019/02/apps-using-legacy-crts-don-t-work-properly-with-certain-regional-settings).
+6. Restart Wabbajack and resume using the same installation and downloads directories.
 
-1. Go to Control Panel - Time and Language settings - Language and region
-2. Click Administrative Language settings then change system locale
-3. Choose English and UNCHECK Beta: use Unicode UTF-8 for worldwide Language support
-4. Reboot your PC then restart Wabbajack installation
-5. After install complete, change the settings back.
+If the error persists, upload your `Wabbajack.current.log` to the appropriate support channel.
 
-### Insufficiant Drive space or a failing hard Drive
-
-If your hard drive is failing with errors or you dont have enough free space to extract BSA's in order to patch the files within them, this can cause a sanity check
-
-### A corrupt download zip / Mod files / Wabbajack File or Wabbajack cache
-
-If all else fails or has been ruled out - a complete reset of wabbajack, the modlist and the offending download is the last resort.
-
-1. Delete the Modlist .Wabbajack file (from your version downloaded mod lists folder E.G c:\Wabbajack\3.7.5.2\downloaded_mod_lists ) 
-2. Delete the offending zip file ( from <resource download location> ) 
-3. Delete offending mod folder (E.G from <Modlist install folder>\Mods) 
-4. Reset your Wabbajack settings, start off by closing Wabbajack if it is open. Afterwards, press Windows + R on your keyboard and type in %localappdata%. You should see a Windows Explorer window pop up, find and delete the folder called Wabbajack inside.
-
-Once you've done all of that, restart Wabbajack, Login from the settings menu and restart installation.
+**Do not delete your entire Wabbajack cache, downloaded archives, or existing installation unless specifically instructed to do so. Only remove individual files confirmed to be corrupted.**
