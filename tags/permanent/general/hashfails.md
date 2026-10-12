@@ -1,5 +1,3 @@
-## Hash Fails 
-
 ## Hash Failures
 
 Hash failures involving `BSA` or `TEMP_BSA_FILES` indicate that Wabbajack could not successfully verify a file during extraction, processing, or patching. Several factors can cause this, including insufficient disk space, unstable hardware, storage errors, or corrupted source files.
