@@ -1,6 +1,6 @@
 ## Storefront Support
 
-Wabbajack modlist compatibility depends on the game version and distribution platform supported by the individual modlist.
+Wabbajack modlist compatibility depends on the game version and distribution platform supported by the individual modlist. It only supports legitimately purchased copies of the base game and/or DLC.
 
 ### Xbox Game Pass / Microsoft Store Compatibility / Xbox Cloud hosting / Nvidia Go / Amazon Luna
 
