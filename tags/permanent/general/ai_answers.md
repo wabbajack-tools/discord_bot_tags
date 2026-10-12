@@ -1,5 +1,7 @@
-## About AI Tools
+## AI-Generated Troubleshooting Advice
 
-AI chat tools can sound confident but often give incomplete or misleading answers. New users usually can’t tell when something is wrong, which leads to broken setups or bad advice being posted here. 
+AI-generated answers can contain incorrect, outdated, or fabricated instructions, even when presented confidently.
 
-That creates extra work for maintainers who have to sort through and correct these mistakes. Please refrain from citing AI tools when modding, most of the people here have more modding experience than an AI chat program. 
+Please avoid presenting AI-generated troubleshooting advice as a verified solution. Prefer official documentation, modlist instructions, and guidance from experienced support members.
+
+If you have already followed AI-generated instructions, explain what changes were made when requesting assistance. This helps support staff identify potential configuration problems.
