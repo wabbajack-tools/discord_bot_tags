@@ -1,9 +1,12 @@
-### Can I use Wabbajack with Gamepass?
-**Short answer - NO.**
+## Xbox Game Pass / Microsoft Store Compatibility
 
-Long answer - Script extenders (such as SKSE for Skyrim or F4SE for Fallout 4) are currently not compatible with Gamepass versions of Bethesda games. Without these, it is not possible to run complex mods commonly found in Wabbajack modlists.
+Wabbajack modlist compatibility depends on the game version and distribution platform supported by the individual modlist.
 
-```"SKSE will support the latest version of Skyrim available on Steam, and only this version /.../. It is extremely unlikely that any future non-SE Skyrim updates will be released.
+Bethesda modlists, particularly those requiring script extenders such as SKSE or F4SE, are incompatible with the Xbox Game Pass and Microsoft Store versions of their respective games.
 
-SKSE cannot support any potential Windows Store release of Skyrim. Windows Store applications are locked down similarly to consoles and do not allow the APIs necessary for script extenders to work."```
-https://skse.silverlock.org/
+**Before attempting installation:**
+1. Check the modlist's README for supported game editions and platforms.
+2. Confirm that your game version matches the modlist's requirements.
+3. Do not assume that compatibility with a Steam, or GOG release also means compatibility with its Game Pass counterpart.
+
+**If your edition is not explicitly supported, consult the modlist's support channel before proceeding.**
